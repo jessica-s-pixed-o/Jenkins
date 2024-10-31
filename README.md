@@ -16,3 +16,6 @@ Pruebas:
 ![pipeline](https://github.com/user-attachments/assets/3f08ae5d-9424-489d-aa43-3db1d88f96d7)
 ![construccion](https://github.com/user-attachments/assets/1b322fc8-c673-4b7e-bd49-0aa62785cd47)
 
+Ejecución de la construcción:
+![EjecucionConstruccion_N1](https://github.com/user-attachments/assets/60ad667a-0ff6-431e-b840-a186daf36684)
+![EjecucionConstruccion_N2](https://github.com/user-attachments/assets/a0f1764e-2e73-4eba-a054-0eeb2ccf59b1)
