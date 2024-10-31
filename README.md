@@ -19,3 +19,7 @@ Pruebas:
 Ejecución de la construcción:
 ![EjecucionConstruccion_N1](https://github.com/user-attachments/assets/60ad667a-0ff6-431e-b840-a186daf36684)
 ![EjecucionConstruccion_N2](https://github.com/user-attachments/assets/a0f1764e-2e73-4eba-a054-0eeb2ccf59b1)
+
+Prueba ejecución Pipeline
+![jenkins](https://github.com/user-attachments/assets/d14375de-f2b2-48d8-a847-f8b337c34050)
+![jenkins2](https://github.com/user-attachments/assets/aa157e4d-323d-48a7-857f-6b27278e898c)
