@@ -1,0 +1,11 @@
+[package]
+name = "api-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+tokio = { version = "1", features = ["full"] }
+mysql = "25.0.1"
+anyhow = "1.0"
+serde = { version = "1.0.159" , features = ["derive"] } 
