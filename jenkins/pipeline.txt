@@ -1,0 +1,17 @@
+node {
+    stage('Preparation') {
+        catchError(buildResult: 'SUCCESS') {
+            // Eliminar contenedores previos, y si no existen, no devolver error
+            sh 'docker stop api-mysql || true'
+            sh 'docker rm api-mysql || true'
+            sh 'docker stop api-rust || true'
+            sh 'docker rm api-rust || true'
+        }
+    }
+    stage('Build') {
+        build 'BuildAppJob'
+    }
+    stage('Results') {
+        build 'TestAppJob'
+    }
+}
