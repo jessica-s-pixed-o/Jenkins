@@ -13,8 +13,8 @@ Equipo:<br>
 
 Código de las pruebas (se encuentran en la carpeta jenkins):
 ![pruebas](https://github.com/user-attachments/assets/998cd930-142d-42f2-935a-f3b4cd9d520e)
+![codigo-pruebas](https://github.com/user-attachments/assets/d3c90cba-4653-4100-962b-6bb06ee2a16b)
 ![pipeline](https://github.com/user-attachments/assets/3f08ae5d-9424-489d-aa43-3db1d88f96d7)
-![construccion](https://github.com/user-attachments/assets/1b322fc8-c673-4b7e-bd49-0aa62785cd47)
 
 Prueba ejecución Pipeline:
 ![jenkins](https://github.com/user-attachments/assets/d14375de-f2b2-48d8-a847-f8b337c34050)
