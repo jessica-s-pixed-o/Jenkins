@@ -1,13 +1,15 @@
-# Jenkins 
-Laboratorio para el despliegue de aplicaciones.
-Práctica: Testing API REST.
-Realiza una prueba de tu API REST utilizando jenkins.
-Equipo:
--Arellano Fuentes Cristian Yael.
--Velázquez Vizcarra Jossua Iván Francisco.
--Prieto Pedroza Carlos Eduardo.
--Gómez Gaona Jessica.
--Gómez Bustamante Leonardo. 
+# Jenkins  
+<h4>Laboratorio para el despliegue de aplicaciones.<br>
+Práctica: Testing API REST.<br>
+Realiza una prueba de tu API REST utilizando jenkins.</h4>
+
+Equipo:<br>
+-Arellano Fuentes Cristian Yael.<br>
+-Velázquez Vizcarra Jossua Iván Francisco.<br>
+-Prieto Pedroza Carlos Eduardo.<br>
+-Gómez Gaona Jessica.<br>
+-Gómez Bustamante Leonardo.
+
 
 Código de las pruebas (se encuentran en la carpeta jenkins):
 ![pruebas](https://github.com/user-attachments/assets/998cd930-142d-42f2-935a-f3b4cd9d520e)
